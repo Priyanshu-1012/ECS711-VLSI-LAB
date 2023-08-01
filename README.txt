@@ -1,3 +1,5 @@
+VHDL Modelling and FPGA implementation of...
+
 1. Basic digital blocks
 2. Latches
 3. Flip-Flops
